@@ -44,7 +44,8 @@ top:91%;left:50%;transform: translate(-50%,0%);}
 .gm-style > div:nth-child(3) > a:nth-child(1) > div:nth-child(1) > img:nth-child(1){display: none}
 div.gm-style-cc:nth-child(1),div.gmnoprint:nth-child(7),div.gm-style-cc:nth-child(9){display: none}
 #map{
-    height: 500px;
+    height: 500px !important;
+    width: 50%;
 }
 .second{width: 50% !important;line-height: 3em !important ;display: flex !important;  flex-flow: column !important;justify-content: center !important;align-items: center !important;}
 
